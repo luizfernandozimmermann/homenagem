@@ -1,3 +1,3 @@
-# Jogo feito em homenagem ao meu pai
+# Jogo com batalhas inspiradas em Undertale
 
-## Jogue e se divirta!
+## Feito como uma homenagem ao meu pai após ele realizar uma cirurgia de risco
